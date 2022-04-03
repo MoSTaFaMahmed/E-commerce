@@ -27,7 +27,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment](https://facebook.github.io/create-reac![screencapture-localhost-3001-2022-04-03-02_37_27](https://user-images.githubusercontent.com/52077074/161406303-f0e318ce-d85c-4586-b761-372b87c877d2.png)
+t-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![screencapture-localhost-3001-2022-04-03-02_37_48](https://user-images.githubusercontent.com/52077074/161406307-5d073ab9-0d77-479b-a5eb-d44fe3db13b3.png)
+![Uploading screenc![![screencapture-localhost-3001-favorite-2022-04-03-02_39_15](https://user-images.githubusercontent.com/52077074/161406317-64e0c180-b161-4847-84c7-451fae42ebb1.png)
+Uploading screencapture-localhost-3001-2022-04-03-02_39_01.png…]()
+apture-localhost-3001-2022-04-03-02_38_19.png…]()
